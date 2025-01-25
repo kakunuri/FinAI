@@ -8,11 +8,6 @@ from dotenv import load_dotenv
 import os
 
 
-# Set environment variables
-os.environ["GROQ_API_KEY"] = "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"
-os.environ["OPENAI_API_KEY"] = "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"
-
-
 # Page config
 st.set_page_config(
     page_title="AI Agent Playground",
