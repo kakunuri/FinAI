@@ -1,6 +1,5 @@
 streamlit
 phi
-dotenv
 duckduckgo-search
 yfinance
 groq
